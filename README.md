@@ -1,6 +1,6 @@
 python-dhcp
 ===========
-DHCP implementation in python.
+DHCP implementation in python (based on http://code.activestate.com/recipes/577649-dhcp-query/).
 
 
 Usage
