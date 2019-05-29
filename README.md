@@ -21,6 +21,8 @@ Output as python dictionary:
 Request subnet-mask of local network:
 
 ```python
+from dhcp import get_subnet_mask
+
 print(get_subnet_mask())
 ```
 
