@@ -1,4 +1,7 @@
+"""
+Based on "dhcp query" from http://code.activestate.com/recipes/577649-dhcp-query/ (MIT License)
 
+"""
 import socket
 import struct
 from uuid import getnode as get_mac
